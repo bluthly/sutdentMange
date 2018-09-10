@@ -1,0 +1,14 @@
+D:\Source\-web--master\考勤管理系统\程序\StudentAttendanceManSys\Web\bin\Web.dll.config
+D:\Source\-web--master\考勤管理系统\程序\StudentAttendanceManSys\Web\bin\Web.dll
+D:\Source\-web--master\考勤管理系统\程序\StudentAttendanceManSys\Web\bin\Web.pdb
+D:\Source\-web--master\考勤管理系统\程序\StudentAttendanceManSys\Web\bin\BLL.dll
+D:\Source\-web--master\考勤管理系统\程序\StudentAttendanceManSys\Web\bin\DAL.dll
+D:\Source\-web--master\考勤管理系统\程序\StudentAttendanceManSys\Web\bin\Model.dll
+D:\Source\-web--master\考勤管理系统\程序\StudentAttendanceManSys\Web\bin\Utility.dll
+D:\Source\-web--master\考勤管理系统\程序\StudentAttendanceManSys\Web\bin\BLL.pdb
+D:\Source\-web--master\考勤管理系统\程序\StudentAttendanceManSys\Web\bin\DAL.pdb
+D:\Source\-web--master\考勤管理系统\程序\StudentAttendanceManSys\Web\bin\Model.pdb
+D:\Source\-web--master\考勤管理系统\程序\StudentAttendanceManSys\Web\bin\Utility.pdb
+D:\Source\-web--master\考勤管理系统\程序\StudentAttendanceManSys\Web\obj\Release\Web.csprojResolveAssemblyReference.cache
+D:\Source\-web--master\考勤管理系统\程序\StudentAttendanceManSys\Web\obj\Release\Web.dll
+D:\Source\-web--master\考勤管理系统\程序\StudentAttendanceManSys\Web\obj\Release\Web.pdb

@@ -1,0 +1,5 @@
+D:\Source\-web--master\考勤管理系统\程序\StudentAttendanceManSys\Model\bin\Release\Model.dll
+D:\Source\-web--master\考勤管理系统\程序\StudentAttendanceManSys\Model\bin\Release\Model.pdb
+D:\Source\-web--master\考勤管理系统\程序\StudentAttendanceManSys\Model\obj\Release\Model.csprojResolveAssemblyReference.cache
+D:\Source\-web--master\考勤管理系统\程序\StudentAttendanceManSys\Model\obj\Release\Model.dll
+D:\Source\-web--master\考勤管理系统\程序\StudentAttendanceManSys\Model\obj\Release\Model.pdb

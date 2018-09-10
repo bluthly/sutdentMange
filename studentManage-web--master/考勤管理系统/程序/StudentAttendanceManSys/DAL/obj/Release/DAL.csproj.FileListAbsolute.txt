@@ -1,0 +1,9 @@
+D:\Source\-web--master\考勤管理系统\程序\StudentAttendanceManSys\DAL\bin\Release\DAL.dll
+D:\Source\-web--master\考勤管理系统\程序\StudentAttendanceManSys\DAL\bin\Release\DAL.pdb
+D:\Source\-web--master\考勤管理系统\程序\StudentAttendanceManSys\DAL\bin\Release\Model.dll
+D:\Source\-web--master\考勤管理系统\程序\StudentAttendanceManSys\DAL\bin\Release\Utility.dll
+D:\Source\-web--master\考勤管理系统\程序\StudentAttendanceManSys\DAL\bin\Release\Model.pdb
+D:\Source\-web--master\考勤管理系统\程序\StudentAttendanceManSys\DAL\bin\Release\Utility.pdb
+D:\Source\-web--master\考勤管理系统\程序\StudentAttendanceManSys\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\Source\-web--master\考勤管理系统\程序\StudentAttendanceManSys\DAL\obj\Release\DAL.dll
+D:\Source\-web--master\考勤管理系统\程序\StudentAttendanceManSys\DAL\obj\Release\DAL.pdb

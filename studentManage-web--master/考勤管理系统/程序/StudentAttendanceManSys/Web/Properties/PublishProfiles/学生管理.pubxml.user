@@ -1,0 +1,421 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Publish\StudentManage</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="alertPassword.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="bin/AspNetPager.dll">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="bin/BLL.dll">
+      <publishTime>09/10/2018 11:38:36</publishTime>
+    </File>
+    <File Include="bin/DAL.dll">
+      <publishTime>09/10/2018 11:38:36</publishTime>
+    </File>
+    <File Include="bin/Model.dll">
+      <publishTime>09/10/2018 11:38:36</publishTime>
+    </File>
+    <File Include="bin/Utility.dll">
+      <publishTime>09/10/2018 11:38:36</publishTime>
+    </File>
+    <File Include="bin/Web.dll">
+      <publishTime>09/10/2018 11:38:37</publishTime>
+    </File>
+    <File Include="classTeacherManPages/attendanceDetail.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="classTeacherManPages/attendanceStatistics.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="classTeacherManPages/averageWeeklyAttendance.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="classTeacherManPages/classStudentAttendDetail.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="classTeacherManPages/classWeekAttendance.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="classTeacherManPages/viewDetailedAttendanceInformation.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="css/header.css">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="css/index.css">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="css/login.css">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="css/manCommon.css">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="css/menu.css">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="css/showCommon.css">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="images/add.gif">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="images/back.jpg">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="images/buttom_bgs.gif">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="images/buttom_left2.gif">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="images/buttom_right2.gif">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="images/content-bg.gif">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="images/delete.gif">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="images/edit.gif">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="images/excel.jpg">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="images/left-top-right.gif">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="images/login-content-bg.gif">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="images/login-top-bg.gif">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="images/login-wel.gif">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="images/login_bg.jpg">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="images/logo.gif">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="images/logo.png">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="images/luck.gif">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="images/mail_leftbg.gif">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="images/mail_rightbg.gif">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="images/menu_bg1.gif">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="images/menu_bg2.gif">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="images/menu_bgs.gif">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="images/menu_topline.gif">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="images/nav-right-bg.gif">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="images/out.gif">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="images/submit.jpg">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="images/top-right.gif">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="images/top_bt.jpg">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="images/welcome.jpg">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="js/moo.fx.js">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="js/moo.fx.pack.js">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="js/prototype.lite.js">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="login.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="logout.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="mainPages/header.Master">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="mainPages/index.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="mainPages/menu.Master">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="mainPages/welcome.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="MaintainStaffManPages/monitorAttendance/attendanceStatistics.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="MaintainStaffManPages/monitorAttendance/increaseStudentAttendanceRecords.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="MaintainStaffManPages/monitorAttendance/manageAttendanceRecord.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="MaintainStaffManPages/monitorAttendance/modifyStudentAttendanceRecord.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="MaintainStaffManPages/teacherAttendance/attendanceStatistics.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="MaintainStaffManPages/teacherAttendance/increaseStudentAttendanceRecords.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="MaintainStaffManPages/teacherAttendance/manageAttendanceRecord.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="MaintainStaffManPages/teacherAttendance/modifyStudentAttendanceRecord.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/initAttendance.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/initSemesterDate.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/manageClasses/addClass.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/manageClasses/editClass.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/manageClasses/showClasses.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/manageCourses/addCourse.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/manageCourses/editCourse.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/manageCourses/showCourses.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/manageCourseTable/addCourseTable.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/manageCourseTable/editCourseTable.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/manageCourseTable/showCourseTable.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/manageCourseTable/showDetailCourseTable.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/manageStaffs/addStaff.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/manageStaffs/editStaff.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/manageStaffs/showStaffs.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/manageStudents/addStudent.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/manageStudents/editStudent.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/manageStudents/showStudents.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/manageTeachers/addTeacher.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/manageTeachers/editTeacher.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/manageTeachers/showTeachers.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/monitorAttendance/advancedSearchAttendance.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/monitorAttendance/attendanceDetail.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/monitorAttendance/averageWeeklyAttendance.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/monitorAttendance/classAttendSearch.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/monitorAttendance/classWeekAttendance.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/monitorAttendance/classWeekAttendSearch.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/monitorAttendance/punishStudent.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/monitorAttendance/punishStudentDetail.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/monitorAttendance/punishStudentShow.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/monitorAttendance/semesterAttendance.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/monitorAttendance/studentAbsence.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/monitorAttendance/viewDetailedAttendanceInformation.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/monitorAttendance/weekDetailedRecords.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/othersMan/checkAttendanceRegister.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/othersMan/compareAttendance.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/othersMan/manageCourseTable.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/teacherAttendance/advancedSearchAttendance.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/teacherAttendance/attendanceDetail.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/teacherAttendance/averageWeeklyAttendance.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/teacherAttendance/classAttendSearch.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/teacherAttendance/classWeekAttendance.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/teacherAttendance/classWeekAttendSearch.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/teacherAttendance/punishStudent.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/teacherAttendance/punishStudentDetail.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/teacherAttendance/punishStudentShow.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/teacherAttendance/semesterAttendance.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/teacherAttendance/studentAbsence.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/teacherAttendance/viewDetailedAttendanceInformation.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="managerManPages/teacherAttendance/weekDetailedRecords.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="monitorManPages/checkByMonitor.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="monitorManPages/checkWorkAttendance.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="monitorManPages/confirmCheckByMonitor.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="monitorManPages/detailedRecords.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="monitorManPages/unCheckinByMonitor.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="monitorManPages/viewAttendance.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="monitorManPages/viewStudentsAttendance.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="studentManPages/detailedRecords.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="studentManPages/search.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="teacherManPages/checkResult.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="teacherManPages/checkWorkAttendance.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="teacherManPages/confirmAttendance.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="teacherManPages/detailedRecords.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="teacherManPages/unCheckin.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="teacherManPages/viewAllRecord.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="teacherManPages/viewAttendance.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="teacherManPages/viewCourseAttendance.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="teacherManPages/viewDetaiAttendance.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="teacherManPages/viewNotnormal.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="teacherManPages/viewStudentsAttendance.aspx">
+      <publishTime>07/26/2015 02:23:14</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/10/2018 11:38:38</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
